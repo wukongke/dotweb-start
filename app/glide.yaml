@@ -1,0 +1,4 @@
+package: work-codes/demos/dotweb-start/app
+import:
+- package: github.com/devfeel/dotweb
+  version: 1.3.3
