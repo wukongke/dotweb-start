@@ -1,0 +1,6 @@
+hash: b5fa25578fc2cadf12b07bed64ea398d205a352096c42608f7125bf2c3be0282
+updated: 2017-10-19T11:40:57.570454588+08:00
+imports:
+- name: github.com/devfeel/dotweb
+  version: b15094b52f536bbea063fcffb196b191a2b2b868
+testImports: []

@@ -1,0 +1,8 @@
+app/app
+#app/vendor
+.remote-sync.json
+.vscode/
+view/dist/
+.idea/
+.dist/
+.DS_Store
